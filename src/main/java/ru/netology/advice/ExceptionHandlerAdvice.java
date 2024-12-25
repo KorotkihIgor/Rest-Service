@@ -9,9 +9,6 @@ import ru.netology.exception.UnauthorizedUser;
 
 @RestControllerAdvice
 public class ExceptionHandlerAdvice {
-    public static ExceptionHandlerAdvice createExceptionHandlerAdvice() {
-        return new ExceptionHandlerAdvice();
-    }
 
     @ExceptionHandler(InvalidCredentials.class)
     public ResponseEntity<String> invalidCredentials(InvalidCredentials e) {
