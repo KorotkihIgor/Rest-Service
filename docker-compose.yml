@@ -1,0 +1,7 @@
+version: '2'
+services:
+  myapp2:
+    image: 'rest'
+    ports:
+      - '8088:8080'
+

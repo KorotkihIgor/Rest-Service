@@ -1,0 +1,8 @@
+C:\Users\USER\OneDrive\Рабочий стол\Rest\src\main\java\ru\netology\advice\ExceptionHandlerAdvice.java
+C:\Users\USER\OneDrive\Рабочий стол\Rest\src\main\java\ru\netology\BootApplication.java
+C:\Users\USER\OneDrive\Рабочий стол\Rest\src\main\java\ru\netology\controller\AuthorizationController.java
+C:\Users\USER\OneDrive\Рабочий стол\Rest\src\main\java\ru\netology\exception\InvalidCredentials.java
+C:\Users\USER\OneDrive\Рабочий стол\Rest\src\main\java\ru\netology\exception\UnauthorizedUser.java
+C:\Users\USER\OneDrive\Рабочий стол\Rest\src\main\java\ru\netology\model\Authorities.java
+C:\Users\USER\OneDrive\Рабочий стол\Rest\src\main\java\ru\netology\repository\UserRepository.java
+C:\Users\USER\OneDrive\Рабочий стол\Rest\src\main\java\ru\netology\service\AuthorizationService.java
